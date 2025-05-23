@@ -4,6 +4,7 @@ import os  # standard library
 import datetime  # standard library
 import matplotlib.pyplot as plt  # pip install matplotlib
 from rich import print  # pip install rich
+import hello_world_for_import
 
 # Generate a random number
 number = random.randint(0, 10)
